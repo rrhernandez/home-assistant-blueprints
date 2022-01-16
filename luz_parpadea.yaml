@@ -12,7 +12,6 @@ blueprint:
       description: Enter the Entity Name for Trigger (On-Off)
       selector:
         entity:
-          domain: input_boolean
     target_lights:
       name: Lights
       description: To flashing lights
